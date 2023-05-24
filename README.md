@@ -1,6 +1,7 @@
 # ssz-rs ✂️️
 
 [![build](https://github.com/ralexstokes/ssz-rs/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/ralexstokes/ssz-rs/actions/workflows/rust.yml)
+[![codecov](https://codecov.io/gh/Snowfork/ssz-rs/branch/main/graph/badge.svg?token=Y3ORKY8TJ9)](https://codecov.io/gh/Snowfork/ssz-rs)
 [![crates.io](https://img.shields.io/crates/v/ssz_rs.svg)](https://crates.io/crates/ssz_rs)
 [![docs.rs](https://img.shields.io/docsrs/ssz_rs)](https://docs.rs/ssz_rs/)
 
